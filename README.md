@@ -1,2 +1,2 @@
 # project-sephora-php
-PHP group project, site using the global SESSION
+Projeto site Sephora feito em PHP, HTML e CSS 
